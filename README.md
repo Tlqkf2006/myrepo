@@ -10,3 +10,7 @@ oss repo
 
 3393
 
+
+
+실행 법 hello.py
+
